@@ -1,0 +1,5 @@
+- 👋 Hi there, I’m wafaa abdel massih. I am a fresh graduated from Computer Science.
+- 👀 I am interesting in developing apps and building websites and have a Front-end developer Nanodegree Certification from udactiy and many more courses that extensive my knowledge about technologies like HTML, CSS, and JavaScript. 
+- 🌱 I am keen to gain more experience in the field. For this reason, I am looking for a company willing to offer me a placement among their developers. In return, I would offer my full commitment, and be a pleasant and friendly addition to your team.
+- 💞️ I am therefore currently looking for a job or an internship as a front-end developer.
+- 📫 Get in touch by emailing me wafaa.abdelmassih@gmail.com
